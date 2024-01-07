@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to RSSAggregator!</h1>
+<h1 align="center">RSS Aggregator: Fully Fledged Backend Server with Go!</h1>
   <p>A powerful and user-friendly tool designed for aggregating, curating, and managing RSS feeds. This project aims to provide an efficient way to access and organize content from various online sources in one central location.</p>
 <ol>
 <h2>Features:</h3>
