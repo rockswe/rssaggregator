@@ -8,5 +8,5 @@
 <li><h4>Automatic Updates:</h4> The aggregator checks for updates at regular intervals, ensuring you always have the latest content.</li>
 <li><h4>User-Friendly Interface:</h4> A clean and intuitive interface that makes it easy to navigate through your feeds.</li>
 <li><h4>Search Functionality:</h4> Quickly find specific articles or topics within your aggregated feeds.</li>
-<li><h4>Responsive Design:</h4> <p>Compatible with various devices and screen sizes.</p></li>
+<li><h4>Responsive Design:</h4> Compatible with various devices and screen sizes.</li>
 </ol>
