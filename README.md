@@ -1,5 +1,6 @@
 <h1 align="center">RSS Aggregator: Fully Fledged Backend Server with Go!</h1>
-  <p>A powerful and user-friendly tool designed for aggregating, curating, and managing RSS feeds. This project aims to provide an efficient way to access and organize content from various online sources in one central location.</p>
+ <h2>Really, what is it?</h1>
+ <p>RSS Aggregator is an innovative tool for aggregating, managing, and curating content from various RSS feeds. This project leverages the power of Go programming language to build a robust and efficient backend API, enhancing the performance and scalability of the RSS feed management process. It's designed for users who wish to access a wide range of online content through a centralized, organized platform.</p>
 <ol>
 <h2>Features:</h3>
 <li><h4>Multiple RSS Feed Support:</h4> Easily add and manage multiple RSS feeds.</li>
