@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"net/http"
+	"net/http" a
 
 	"github.com/google/uuid"
 	"github.com/rockswe/rssaggregator/internal/database"
